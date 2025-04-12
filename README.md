@@ -1,5 +1,6 @@
 # securetoken
 
+```
 internal/
 ├── domain/
 │   └── token.go
@@ -11,3 +12,4 @@ internal/
 cmd/
 └── service/
     └── main.go
+```
